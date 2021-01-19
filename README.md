@@ -18,3 +18,8 @@ ebook
 * **阿里巴巴** 开发者社区
   * [Java工程师必下载！Java开发手册+成神指南，史上最全阿里工程师实践精华！](https://developer.aliyun.com/article/780111)
   * [大数据电子书16本下载！从开源大数据到阿里巴巴实战，一键全包](https://developer.aliyun.com/article/780113)
+
+
+blog
+=====================================
+ * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
